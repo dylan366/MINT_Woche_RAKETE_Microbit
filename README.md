@@ -30,12 +30,10 @@ Schoolproject from the 20th to the 24th of January 2025 (Monday to Friday 8:00 A
 
 First we took one bottle and added the special bottle-lid-to-hose translator to it to act as the nozzle. Then we cut off the top part and the bottom part of the second bottle so we were left with a tube. The parachute's eight ends were then connected to one. Then we connected two strings to the part where all eight parachute strings came together. One of the strings we tightly knotted around the nozzle, and the other string we stuck to the inside of the parachute-container. Finally we used the cutoff top of the second bottle and filled it with wool and cutout styrofoam and hotglue to make a kind of bed for the microbit. This bottle top also had a little hole where we could feed the altitude measurement device through and stick it to the outside of this top compartment. Once the "Launcher" microbit had been placed accordingly with a battery and code, we made sure the microbit couldn't fall out, then we stuck this "cockpit" onto one end of the parachute tube and taped them together.
 That's it for the actual rocket!
-<img src="C:\Users\dylan\OneDrive\Desktop\Schule\MINT_Rocket_Data\cockpit.jpg">
-^The cockpit with the microbit and the bmp180
 
+"cockpit.jpg" to see the cockpit with the microbit and the bmp180.
 
-<img src="C:\Users\dylan\OneDrive\Desktop\Schule\MINT_Rocket_Data\rocket_top.jpg">
-^The parachute container with the cockpit and the parachute stuffed inside
+"rocket_top.jpg" to see the parachute container with the cockpit and the parachute stuffed inside.
 
 The second microbit, the "ground_control", was connected to my laptop and held in my hand near the actual launch sight, so that I could make sure that the microbit in the rocket was actually recording data.
 
@@ -48,15 +46,16 @@ finely taping it. Buttons A and B on the microbit in the rocket didn't need to b
 To the power supply: BE SURE THE BATTERY IS POWERED AN THE MICROBIT'S LIGHT IS ON, SO THAT DURING THE RECORDING THE MICROBIT DOESN'T SUDDENLY LOSE POWER AND STOP RECORDING. (subtle hinting as to what had happened to us once)
 
 To the parachute: To make the parachute works as successfully as possible we only placed the parachute compartment onto the fuel take. No tape and no pushing it in! You could almost say we layed it ontop or balanced it there.
-<img src="C:\Users\dylan\OneDrive\Desktop\Schule\MINT_Rocket_Data\animation.GIF">
-^Animation of how the parachute deployment works
+
+"animation.gif" is an animation of how the parachute deployment works.
+
 ### **Launching the rocket:**
 
 The rocket would release by itself at around 7.5 bar of pressure applied from the bike pump. Otherwise we just manually pulled at a string that released the hose from the nozzle. We used a string to have some distance from the water spray, as we did this in January and none of us wanted to get very wet. Anything below 2 bar and the rocket would barely take off.
 We made sure to add some extra tape around the rocket so that we could add a little extra preassure in there without it exploding.
 At the top of the rocket flight parabola the parachute compartment would just fall off due to it just being placed on top without any sort of fastening. This is ideal and since the parachute was connected to its own tube with the microbit compartment AND the then empty fuel tank nothing would crash land and everything would safely glide down to earth.
 
-<video controls src="slow_mo_launch_closeup.mp4" title="Title"></video>
+see images and videos folder to view some more images of production and shots of takeoffs and.
 
 -----
 Contributers: github.com/jostoelz, +2
