@@ -59,5 +59,6 @@ see images and videos folder to view some more images of production and shots of
 
 -----
 Contributers: github.com/jostoelz, +2
+<br>
 bmp180 for the microbit: code from github.com/shaoziyang
 
